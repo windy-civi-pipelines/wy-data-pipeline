@@ -20,7 +20,6 @@ jobs:
         with:
            github-token:  ${{ secrets.GITHUB_TOKEN }}
            state: ${{ env.STATE }}
-           input-folder: ${{ runner.temp }}/_working/_data/${{ env.STATE }}
            allow-session-fix: true
 
       # - name: Update Repo
