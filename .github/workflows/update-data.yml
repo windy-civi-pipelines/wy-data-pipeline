@@ -6,7 +6,7 @@ on:
   #   - cron: "0 1 * * *" # every day at 1am UTC
 
 env:
-  STATE: id # <-- update this value per state repo, e.g. il, tx, ny, etc.
+  STATE: wy # <-- update this value per state repo, e.g. il, tx, ny, etc.
 
 jobs:
   update-data:
@@ -56,14 +56,11 @@ jobs:
           find ${RUNNER_TEMP}/_working/_data -type f -name "*.json" -exec bash -c 'jq "del(..|._id?, .scraped_at?)" "{}" > "{}.tmp" && mv "{}.tmp" "{}"' \;
 
       - name: Format Data
-        working-directory: ./openstates_scraped_data_formatter
-        env:
-          FORMATTER_INPUT_FOLDER: ${{ runner.temp }}/_working/_data/$STATE
-        run: |
-          pip install pipenv
-          pipenv install
-          pipenv run python main.py --state $STATE --input-folder $FORMATTER_INPUT_FOLDER
-          cd ${{ github.workspace }} || exit 1
+        uses: windy-civi/opencivicdata-blockchain-transformer@main
+        with:
+           state: ${{ env.STATE }}
+           input-folder: ${{ runner.temp }}/_working/_data/${{ env.STATE }}
+           allow-session-fix: true
 
       - name: Update Repo
         env:
