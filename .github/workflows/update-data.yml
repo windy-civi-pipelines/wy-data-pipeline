@@ -28,6 +28,17 @@ jobs:
           name: ocd-blockchain-data-${{ inputs.state }}
           path: ./
 
+      - name: Unzip and Clean Up Artifact
+        run: |
+          echo "📦 Unzipping downloaded artifact..."
+          if [ -f "data_output.zip" ]; then
+            unzip -o data_output.zip
+            rm data_output.zip
+            echo "✅ Artifact unzipped and zip file removed"
+          else
+            echo "⚠️ No data_output.zip found to unzip"
+          fi
+
       - name: Update Repo
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
