@@ -18,6 +18,7 @@ jobs:
     steps:
       - uses: windy-civi/opencivicdata-blockchain-transformer@main
         with:
+           github-token:  ${{ secrets.GITHUB_TOKEN }}
            state: ${{ env.STATE }}
            input-folder: ${{ runner.temp }}/_working/_data/${{ env.STATE }}
            allow-session-fix: true
