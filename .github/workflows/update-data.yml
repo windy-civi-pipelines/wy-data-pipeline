@@ -21,7 +21,7 @@ jobs:
            github-token:  ${{ secrets.GITHUB_TOKEN }}
            state: ${{ env.STATE }}
            allow-session-fix: true
-           use-latest-artifact: true
+           # use-latest-artifact: true
 
       # - name: Update Repo
       #   env:
