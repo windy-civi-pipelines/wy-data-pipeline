@@ -29,6 +29,7 @@ jobs:
           path: ./
 
       - name: Unzip and Clean Up Artifact
+        shell: bash
         run: |
           echo "📦 Unzipping downloaded artifact..."
           if [ -f "data_output.zip" ]; then
@@ -42,6 +43,7 @@ jobs:
       - name: Update Repo
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
         run: |
           git config user.email "no_email"
           git config user.name "Windy Civi Bot"
