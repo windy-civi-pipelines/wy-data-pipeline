@@ -8,6 +8,11 @@ on:
       use-scrape-cache:
         type: boolean
         description: Use open states scraper cache
+      force-update:
+        description: 'Force push changes even if there are upstream changes (use with caution)'
+        required: false
+        default: 'false'
+
 
 jobs:
   update-data:
@@ -22,3 +27,4 @@ jobs:
            state: wy
            github-token: ${{ secrets.GITHUB_TOKEN }}
            use-scrape-cache: ${{ inputs.use-scrape-cache }}
+           force-update: ${{ inputs.force-update }}
