@@ -19,37 +19,37 @@ jobs:
       - uses: windy-civi/opencivicdata-blockchain-transformer@main
         with:
            state: ${{ env.STATE }}
-           allow-session-fix: true
-           use-scrape-cache: true
+           allow-session-fix: wy
+           github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Download OCD Scraped Data for Processing
-        uses: actions/download-artifact@v4
-        with:
-          name: ocd-blockchain-data-${{ inputs.state }}
-          path: ./
+      # - name: Download OCD Scraped Data for Processing
+      #   uses: actions/download-artifact@v4
+      #   with:
+      #     name: ocd-blockchain-data-${{ inputs.state }}
+      #     path: ./
 
-      - name: Unzip and Clean Up Artifact
-        shell: bash
-        run: |
-          echo "📦 Unzipping downloaded artifact..."
-          if [ -f "data_output.zip" ]; then
-            unzip -o data_output.zip
-            rm data_output.zip
-            echo "✅ Artifact unzipped and zip file removed"
-          else
-            echo "⚠️ No data_output.zip found to unzip"
-          fi
+      # - name: Unzip and Clean Up Artifact
+      #   shell: bash
+      #   run: |
+      #     echo "📦 Unzipping downloaded artifact..."
+      #     if [ -f "data_output.zip" ]; then
+      #       unzip -o data_output.zip
+      #       rm data_output.zip
+      #       echo "✅ Artifact unzipped and zip file removed"
+      #     else
+      #       echo "⚠️ No data_output.zip found to unzip"
+      #     fi
 
-      - name: Update Repo
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        shell: bash
-        run: |
-          git config user.email "no_email"
-          git config user.name "Windy Civi Bot"
-          git fetch origin main
-          git pull origin main --rebase || true
+      # - name: Update Repo
+      #   env:
+      #     GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   shell: bash
+      #   run: |
+      #     git config user.email "no_email"
+      #     git config user.name "Windy Civi Bot"
+      #     git fetch origin main
+      #     git pull origin main --rebase || true
 
-          git add data_output bill_session_mapping sessions
-          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Automated report update (report dated ${{ steps.get-date.outputs.date }})"
-          git push || echo "⚠️ Git push failed — possibly due to upstream changes."
+      #     git add data_output bill_session_mapping sessions
+      #     git diff --cached --quiet && echo "No changes to commit" || git commit -m "Automated report update (report dated ${{ steps.get-date.outputs.date }})"
+      #     git push || echo "⚠️ Git push failed — possibly due to upstream changes."
