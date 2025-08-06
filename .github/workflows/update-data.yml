@@ -2,7 +2,10 @@ name: Update Data
 
 on:
   workflow_dispatch:
-  # schedule:
+    inputs:
+      use-scrape-cache:
+            type: boolean
+            description: Use open states scraper cache
   #   - cron: "0 1 * * *" # every day at 1am UTC
 
 env:
@@ -21,7 +24,7 @@ jobs:
            state: ${{ env.STATE }}
            allow-session-fix: wy
            github-token: ${{ secrets.GITHUB_TOKEN }}
-           use-scrape-cache: true
+           use-scrape-cache: ${{ inputs.use-scrape-cache }}
 
       # - name: Download OCD Scraped Data for Processing
       #   uses: actions/download-artifact@v4
