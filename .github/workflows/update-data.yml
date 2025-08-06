@@ -20,7 +20,7 @@ jobs:
         with:
            state: ${{ env.STATE }}
            allow-session-fix: true
-           use-scrape-cache: false
+           use-scrape-cache: true
 
       - name: Download OCD Scraped Data for Processing
         uses: actions/download-artifact@v4
