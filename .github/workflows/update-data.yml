@@ -9,10 +9,8 @@ on:
         type: boolean
         description: Use open states scraper cache
       force-update:
+        type: boolean
         description: 'Force push changes even if there are upstream changes (use with caution)'
-        required: false
-        default: 'false'
-
 
 jobs:
   update-data:
