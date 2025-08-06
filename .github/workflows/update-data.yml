@@ -21,6 +21,7 @@ jobs:
            state: ${{ env.STATE }}
            allow-session-fix: wy
            github-token: ${{ secrets.GITHUB_TOKEN }}
+           use-scrape-cache: true
 
       # - name: Download OCD Scraped Data for Processing
       #   uses: actions/download-artifact@v4
