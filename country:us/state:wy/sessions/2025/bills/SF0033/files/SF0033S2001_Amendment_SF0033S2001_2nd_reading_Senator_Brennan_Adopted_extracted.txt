@@ -1,0 +1,31 @@
+Title: 1 Page 2-line 8 Delete ""Not a United States citizen"" and
+Official Title: 1 Page 2-line 8 Delete ""Not a United States citizen"" and
+Number of Sections: 1
+Source: versions - Amendment SF0033S2001 (2nd reading) - Senator Brennan (Adopted)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SF0033S2001
+2 insert ""Not U.S."".
+3
+4 Page 2-line 15 Delete ""Not a United States citizen"" and
+5 insert ""Not U.S."". BRENNAN
+1
+[DELETED: P8D " a U S c aiP5D " a U S c ai]
+
+
+================================================================================
+
+Raw Text:
+SF0033S2001
+1 Page 2-line 8 Delete ""Not a United States citizen"" and
+2 insert ""Not U.S."".
+3
+4 Page 2-line 15 Delete ""Not a United States citizen"" and
+5 insert ""Not U.S."". BRENNAN
+1
+
+[DELETED: P8D " a U S c aiP5D " a U S c ai]

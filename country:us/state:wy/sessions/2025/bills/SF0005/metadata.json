@@ -383,6 +383,7 @@
     "division_id": "ocd-division/country:us/state:wy"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-22T17:15:24Z"
+    "logs_latest_update": "2025-10-22T17:15:24Z",
+    "text_extraction_latest_update": "2025-10-22T18:06:39.085926Z"
   }
 }

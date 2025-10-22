@@ -1,0 +1,24 @@
+Title: PDF Document
+Official Title: 
+Number of Sections: 1
+Source: versions - Amendment HB0177H3001 (3rd reading) - Representative Brady (Withdrawn)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0177H3001
+1 Page 1-line 9 Delete entirely. BRADY
+1
+[DELETED: P9D]
+
+
+================================================================================
+
+Raw Text:
+HB0177H3001
+1 Page 1-line 9 Delete entirely. BRADY
+1
+
+[DELETED: P9D]

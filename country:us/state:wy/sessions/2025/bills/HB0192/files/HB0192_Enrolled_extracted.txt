@@ -1,0 +1,627 @@
+Title: BILL NO. HB0192
+Official Title: BILL NO. HB0192
+Number of Sections: 6
+Source: versions - Enrolled
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+ORIGINAL HOUSE ENGROSSED
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+AN ACT relating to public utilities; requiring public
+utilities to prepare and submit wildfire mitigation plans;
+specifying procedures for the submission and review of
+wildfire mitigation plans; specifying how costs associated
+with wildfire mitigation plans may be recovered; specifying
+limits for liability and damages for public utilities
+related to wildfires; requiring rulemaking; specifying
+applicability; and providing for effective dates.
+Be It Enacted by the Legislature of the State of Wyoming:
+
+Section 2:
+Section 1. 37-3-401 through 37-3-405 are created to
+read:
+ARTICLE 4
+WILDFIRE MITIGATION
+37-3-401. Definitions.
+(a) As used in this article:
+(i) "Economic loss" means pecuniary loss,
+including losses resulting from medical expenses, business
+interruption, loss of business, property damage loss,
+replacement services loss, loss due to death and burial
+costs to the extent recovery for the loss is allowed under
+the laws of Wyoming;
+(ii) "Electric utility" means any person,
+including cooperative electric utilities that perform any
+of the functions specified in W.S. 37-1-101(a)(vi)(C), that
+is authorized to engage in business in Wyoming and that is
+primarily engaged in the generation, transmission or sale
+of electric energy. "Electric utility" shall not include
+any electric utility owned or operated by a city or town;
+1
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(iii) "Wildfire" means an unplanned, unwanted
+fire burning within Wyoming that may impact, damage or
+cause harm to natural resources, agricultural resources,
+homes and property or that threatens lives and safety.
+37-3-402. Wildfire mitigation plans; preemption;
+commission authority; applicability.
+(a) Nothing in this article shall be construed to
+limit the commission's authority to regulate utilities or
+promulgate rules under other provisions of this title.
+(b) Wildfire mitigation plans approved by the
+commission shall preempt any part of a local land use plan
+or ordinance that would impede or preclude an electric
+utility from implementing the wildfire mitigation plan.
+37-3-403. Electric utilities; wildfire mitigation
+plans; contents.
+(a) Each electric utility shall prepare a wildfire
+mitigation plan that shall include, at a minimum:
+(i) A description of the electric utility's
+service territory and the areas within the service
+territory or rights-of-way that may be subject to a
+heightened risk of wildfire;
+(ii) A description of the procedures, standards
+and schedules that the electric utility will use to inspect
+and operate its transmission and distribution
+infrastructure, if any;
+2
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(iii) A description of the procedures and
+standards that the electric utility will use to perform
+vegetation management;
+(iv) A description of proposed modifications,
+replacements and upgrades to facilities and preventative
+programs that the electric utility will implement to reduce
+the risk of its electric facilities initiating a wildfire;
+(v) A description of how the electric utility's
+wildfire mitigation strategies and policies have changed in
+the immediately preceding five (5) years;
+(vi) A description of how the electric utility
+will coordinate with other electric utilities regarding any
+shared facilities;
+(vii) A description of procedures and
+considerations for de-energizing power lines and disabling
+reclosers to mitigate potential fires, including:
+(A) The ability of the electric utility to
+reasonably access the proposed power line to be
+de-energized;
+(B) Balancing the risk of wildfire with the
+need for the continued supply of electricity to a
+community;
+(C) Any potential impact that de-energizing
+lines may have on the resilience of the remainder of the
+electric utility's transmission and distribution
+facilities, if any;
+3
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(D) The need to provide notice to customers
+and the public before or as soon as practicable after
+de-energization;
+(E) Any need to communicate and coordinate
+with any other electric utilities that may be impacted by a
+de-energization and any plans to accomplish communications,
+including communications with transmission operators,
+reliability coordinators and cooperative member systems;
+(F) Anticipated potential impacts to public
+safety.
+(viii) A description of the procedures the
+electric utility intends to use to restore its electrical
+system in the event of a wildfire;
+(ix) For electric utilities whose rates are
+regulated by the commission, a description of the estimated
+incremental costs and potential associated rate impacts for
+the implementation of the wildfire mitigation plan,
+including system improvements and upgrades;
+(x) A description of community outreach and
+public awareness efforts before and during the wildfire
+season, particularly in areas impacted by wildfires or
+de-energizations;
+(xi) A description of potential participation
+with emergency coordinators, if applicable;
+(xii) Input from the Wyoming state forestry
+division of the office of state lands and investments, an
+association representing Wyoming rural firefighters,
+4
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+counties and any other appropriate federal, state or local
+fire entity.
+(b) Not later than five (5) business days after a
+fire mitigation plan is submitted to the public service
+commission for approval under W.S. 37-3-404(a), the
+electric utility shall provide direct notice that a
+wildfire mitigation plan has been filed with the public
+service commission to all conservation districts,
+municipalities and counties in the electric utility's
+Wyoming service territories.
+37-3-404. Wildfire mitigation plans; commission
+approval.
+(a) An electric utility shall apply to the commission
+for approval of a wildfire mitigation plan.
+(b) Upon receiving an application for approval of a
+wildfire mitigation plan, the commission shall, not later
+than one hundred twenty (120) days after receipt, unless
+the commission deems it is necessary to continue the
+implementation of the wildfire mitigation plan for a longer
+period of time and the commission has entered an order
+confirming the continuance and stating the facts making the
+continuance necessary, approve the plan if the plan is
+reasonable, in the public interest and appropriately
+balances the costs of implementing the plan with the risks
+of a potential wildfire. For electric utilities whose rates
+are regulated by the commission, approval of a wildfire
+mitigation plan shall not automatically confer to the
+electric utility the right to recover the costs associated
+with the wildfire mitigation plan. An electric utility
+whose rates are regulated by the commission may seek, and
+5
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+the commission may authorize, cost recovery for the costs
+associated with implementing a wildfire mitigation plan.
+(c) Each electric utility shall submit subsequent or
+updated plans to the commission not later than every fifth
+year after the electric utility last submitted a plan to
+the commission or as ordered by the commission. The
+commission shall review and approve subsequent plans in
+accordance with subsection (b) of this section.
+(d) Not later than June 1 in the year following any
+year in which the commission approves a wildfire mitigation
+plan under this section, an electric utility shall file an
+annual report with the commission detailing the electric
+utility's compliance with the approved wildfire mitigation
+plan and shall request an order of the commission finding
+that the electric utility has substantially complied with
+the plan during the preceding year.
+37-3-405. Wildfire mitigation plans; recovery of
+costs.
+(a) Except as otherwise provided in this section,
+there shall be a presumption in any civil action that the
+approved wildfire mitigation plan is a reasonable and
+prudent preparation for, and mitigation of, wildfire risk.
+(b) An electric utility and a landowner with an
+alleged wildfire related claim shall negotiate in good
+faith before any landowner files a civil action against the
+electric utility. During negotiations, an electric utility
+shall respond to a landowner not later than ninety (90)
+days after receipt of the landowner's submission of
+itemized damages.
+6
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(c) A plaintiff may recover economic loss from an
+electric utility as a result of a wildfire only if the
+plaintiff shows one (1) or more of the following by a
+preponderance of the evidence:
+(i) The electric utility failed to substantially
+comply with an approved wildfire mitigation plan, and that
+failure was the actual and proximate cause of the damages
+to the plaintiff. For purposes of this paragraph, an
+electric utility shall be deemed to have substantially
+complied with the wildfire mitigation plan if the electric
+utility attempted in good faith to comply with the plan but
+was denied or unreasonably delayed access to a right-of-way
+after the electric utility requested access to the
+right-of-way to perform vegetation management or fire
+mitigation work in accordance with the plan and the denial
+or delay was a proximate cause of the damages to the
+plaintiff. A denial or delay shall not be deemed a
+proximate cause of the damages unless the electric utility
+made reasonable efforts to enforce their easement access
+rights within a reasonable time;
+(ii) The electric utility acted with gross
+negligence, malice or criminal intent, and the electric
+utility's action was the actual and proximate cause of the
+damages to the plaintiff.
+(d) The following shall apply in any civil action
+filed under subsection (c) of this section that any
+plaintiff brings against an electric utility for damages
+caused by wildfire:
+(i) An action against an electric utility for
+damages caused by a wildfire shall be brought not later
+7
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+than four (4) years after the date of the ignition of the
+wildfire;
+(ii) A plaintiff may recover economic losses;
+(iii) No plaintiff shall recover noneconomic
+damages unless the plaintiff's claim is based on the injury
+or death of any person in a wildfire;
+(iv) Nothing in this section shall be construed
+to limit any defenses that an electric utility may be
+entitled to raise in a civil action for damages caused by
+wildfire.
+(e) Nothing in this section shall be construed to
+apply to any action against an electric utility for:
+(i) Any act or omission taken by the electric
+utility that is not addressed or covered in the electric
+utility's wildfire mitigation plan;
+(ii) Any act or omission taken by the electric
+utility that causes damages or losses not caused or created
+by a wildfire.
+
+Section 3:
+Section 2. Nothing in this act shall be construed to
+impair, alter or preempt any terms or agreements in grants
+of easements or the terms in any other agreements between
+electric utilities and third parties for the shared use of
+facilities.
+
+Section 4:
+Section 3. The public service commission may
+promulgate any rules necessary to implement this act.
+8
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+
+Section 5:
+Section 4.
+(a) Except as provided in subsection (b) of this
+
+Section 6:
+section, this act is effective July 1, 2025.
+(b) Sections 3 and 4 of this act are effective
+immediately upon completion of all acts necessary for a
+bill to become law as provided by Article 4, Section 8 of
+the Wyoming Constitution.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the House.
+Chief Clerk
+9
+[DELETED: EE A r t p u r p t p a s w m p p f t s a r o m p s h c a f l a d f p u t w r r s 1 t 3 a c t l m p l l r f m e b l o b p d l s l l d t d a b u m a p c e u t p a e i t g t o s e e " u s n i]
+[DELETED: EE m a u u b w W t m i d o h t n r a r m p p i t a s b c t t c a t r u o m p a b t o t w i o p a e u w m e u s p a w d o t e u t a t a w t s o r t m b s t a d o t p s o i t a d]
+[DELETED: EE d o t p a t t e u w u t p d o p m a u t f a p d o h t e u d o h t e u d o p a f d p l a d a o t e u t a t p p l t b f t c s o e t a m h o t r o t r o t u t a d]
+[DELETED: EE t p b o a s a p a n t c a c c w t o d o t p t u i t u t r i e e u w r a i o t w m p d o c o a a e b a d t w p i a i b w o d o p p f t W s f o t o o s l a i a r W r f]
+[DELETED: EE l t f ( b d a a m p i s t t p s f a u W 3 t u s p d n t a m p h b f w t p c t a c d a c i t e u m p c r a a f a o a m p t c s n l o h t ( d a r u c d i i n t c t o t a t c h e a o n a t p i t p i i t p i a a r b t c a o a w p s n a c t t t w m p A e u r a r b t c m s a]
+[DELETED: EE c m a c r f t c e u s s s o a t e u l s a p t c o a o b t c T s r a a s p i l t J 1 i t y f a r w t c d t e c w t a w m a s r a o o t c f t e u h s c w m p r o a o p i t s s b a p i a c a t t w m p i a r a e u a a l w a w r c s n i g u D n a e u r t a l n l t n ( a r o t l s o]
+[DELETED: EE p m r e l f a u a a r o a w o i t s o ( o m o t f b a w t a a p c o t d t p F p o t p a u s b d t h s t e u r a t t t p v m o f d w a p c o t d t t A d o d s n b d a r e t e t e a e u a w g m o c i a t e f s a i a c a u s ( o t s t a b a a e u f d a a a e u f c b a w s b b n l]
+[DELETED: EE p s r n i t s s b c l a d t a e u m b t r i a c a f d c b i t s s b c t a o o t b t e t i n a o c i t e a o o t b t e e o t t i a o a b 3 p s c m]
+[DELETED: EE a p i s ( o t 3 a 4 o t a a e u c o a a n f aeP]
+
+
+================================================================================
+
+Raw Text:
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+AN ACT relating to public utilities; requiring public
+utilities to prepare and submit wildfire mitigation plans;
+specifying procedures for the submission and review of
+wildfire mitigation plans; specifying how costs associated
+with wildfire mitigation plans may be recovered; specifying
+limits for liability and damages for public utilities
+related to wildfires; requiring rulemaking; specifying
+applicability; and providing for effective dates.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. 37-3-401 through 37-3-405 are created to
+read:
+ARTICLE 4
+WILDFIRE MITIGATION
+37-3-401. Definitions.
+(a) As used in this article:
+(i) "Economic loss" means pecuniary loss,
+including losses resulting from medical expenses, business
+interruption, loss of business, property damage loss,
+replacement services loss, loss due to death and burial
+costs to the extent recovery for the loss is allowed under
+the laws of Wyoming;
+(ii) "Electric utility" means any person,
+including cooperative electric utilities that perform any
+of the functions specified in W.S. 37-1-101(a)(vi)(C), that
+is authorized to engage in business in Wyoming and that is
+primarily engaged in the generation, transmission or sale
+of electric energy. "Electric utility" shall not include
+any electric utility owned or operated by a city or town;
+1
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(iii) "Wildfire" means an unplanned, unwanted
+fire burning within Wyoming that may impact, damage or
+cause harm to natural resources, agricultural resources,
+homes and property or that threatens lives and safety.
+37-3-402. Wildfire mitigation plans; preemption;
+commission authority; applicability.
+(a) Nothing in this article shall be construed to
+limit the commission's authority to regulate utilities or
+promulgate rules under other provisions of this title.
+(b) Wildfire mitigation plans approved by the
+commission shall preempt any part of a local land use plan
+or ordinance that would impede or preclude an electric
+utility from implementing the wildfire mitigation plan.
+37-3-403. Electric utilities; wildfire mitigation
+plans; contents.
+(a) Each electric utility shall prepare a wildfire
+mitigation plan that shall include, at a minimum:
+(i) A description of the electric utility's
+service territory and the areas within the service
+territory or rights-of-way that may be subject to a
+heightened risk of wildfire;
+(ii) A description of the procedures, standards
+and schedules that the electric utility will use to inspect
+and operate its transmission and distribution
+infrastructure, if any;
+2
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(iii) A description of the procedures and
+standards that the electric utility will use to perform
+vegetation management;
+(iv) A description of proposed modifications,
+replacements and upgrades to facilities and preventative
+programs that the electric utility will implement to reduce
+the risk of its electric facilities initiating a wildfire;
+(v) A description of how the electric utility's
+wildfire mitigation strategies and policies have changed in
+the immediately preceding five (5) years;
+(vi) A description of how the electric utility
+will coordinate with other electric utilities regarding any
+shared facilities;
+(vii) A description of procedures and
+considerations for de-energizing power lines and disabling
+reclosers to mitigate potential fires, including:
+(A) The ability of the electric utility to
+reasonably access the proposed power line to be
+de-energized;
+(B) Balancing the risk of wildfire with the
+need for the continued supply of electricity to a
+community;
+(C) Any potential impact that de-energizing
+lines may have on the resilience of the remainder of the
+electric utility's transmission and distribution
+facilities, if any;
+3
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(D) The need to provide notice to customers
+and the public before or as soon as practicable after
+de-energization;
+(E) Any need to communicate and coordinate
+with any other electric utilities that may be impacted by a
+de-energization and any plans to accomplish communications,
+including communications with transmission operators,
+reliability coordinators and cooperative member systems;
+(F) Anticipated potential impacts to public
+safety.
+(viii) A description of the procedures the
+electric utility intends to use to restore its electrical
+system in the event of a wildfire;
+(ix) For electric utilities whose rates are
+regulated by the commission, a description of the estimated
+incremental costs and potential associated rate impacts for
+the implementation of the wildfire mitigation plan,
+including system improvements and upgrades;
+(x) A description of community outreach and
+public awareness efforts before and during the wildfire
+season, particularly in areas impacted by wildfires or
+de-energizations;
+(xi) A description of potential participation
+with emergency coordinators, if applicable;
+(xii) Input from the Wyoming state forestry
+division of the office of state lands and investments, an
+association representing Wyoming rural firefighters,
+4
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+counties and any other appropriate federal, state or local
+fire entity.
+(b) Not later than five (5) business days after a
+fire mitigation plan is submitted to the public service
+commission for approval under W.S. 37-3-404(a), the
+electric utility shall provide direct notice that a
+wildfire mitigation plan has been filed with the public
+service commission to all conservation districts,
+municipalities and counties in the electric utility's
+Wyoming service territories.
+37-3-404. Wildfire mitigation plans; commission
+approval.
+(a) An electric utility shall apply to the commission
+for approval of a wildfire mitigation plan.
+(b) Upon receiving an application for approval of a
+wildfire mitigation plan, the commission shall, not later
+than one hundred twenty (120) days after receipt, unless
+the commission deems it is necessary to continue the
+implementation of the wildfire mitigation plan for a longer
+period of time and the commission has entered an order
+confirming the continuance and stating the facts making the
+continuance necessary, approve the plan if the plan is
+reasonable, in the public interest and appropriately
+balances the costs of implementing the plan with the risks
+of a potential wildfire. For electric utilities whose rates
+are regulated by the commission, approval of a wildfire
+mitigation plan shall not automatically confer to the
+electric utility the right to recover the costs associated
+with the wildfire mitigation plan. An electric utility
+whose rates are regulated by the commission may seek, and
+5
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+the commission may authorize, cost recovery for the costs
+associated with implementing a wildfire mitigation plan.
+(c) Each electric utility shall submit subsequent or
+updated plans to the commission not later than every fifth
+year after the electric utility last submitted a plan to
+the commission or as ordered by the commission. The
+commission shall review and approve subsequent plans in
+accordance with subsection (b) of this section.
+(d) Not later than June 1 in the year following any
+year in which the commission approves a wildfire mitigation
+plan under this section, an electric utility shall file an
+annual report with the commission detailing the electric
+utility's compliance with the approved wildfire mitigation
+plan and shall request an order of the commission finding
+that the electric utility has substantially complied with
+the plan during the preceding year.
+37-3-405. Wildfire mitigation plans; recovery of
+costs.
+(a) Except as otherwise provided in this section,
+there shall be a presumption in any civil action that the
+approved wildfire mitigation plan is a reasonable and
+prudent preparation for, and mitigation of, wildfire risk.
+(b) An electric utility and a landowner with an
+alleged wildfire related claim shall negotiate in good
+faith before any landowner files a civil action against the
+electric utility. During negotiations, an electric utility
+shall respond to a landowner not later than ninety (90)
+days after receipt of the landowner's submission of
+itemized damages.
+6
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(c) A plaintiff may recover economic loss from an
+electric utility as a result of a wildfire only if the
+plaintiff shows one (1) or more of the following by a
+preponderance of the evidence:
+(i) The electric utility failed to substantially
+comply with an approved wildfire mitigation plan, and that
+failure was the actual and proximate cause of the damages
+to the plaintiff. For purposes of this paragraph, an
+electric utility shall be deemed to have substantially
+complied with the wildfire mitigation plan if the electric
+utility attempted in good faith to comply with the plan but
+was denied or unreasonably delayed access to a right-of-way
+after the electric utility requested access to the
+right-of-way to perform vegetation management or fire
+mitigation work in accordance with the plan and the denial
+or delay was a proximate cause of the damages to the
+plaintiff. A denial or delay shall not be deemed a
+proximate cause of the damages unless the electric utility
+made reasonable efforts to enforce their easement access
+rights within a reasonable time;
+(ii) The electric utility acted with gross
+negligence, malice or criminal intent, and the electric
+utility's action was the actual and proximate cause of the
+damages to the plaintiff.
+(d) The following shall apply in any civil action
+filed under subsection (c) of this section that any
+plaintiff brings against an electric utility for damages
+caused by wildfire:
+(i) An action against an electric utility for
+damages caused by a wildfire shall be brought not later
+7
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+than four (4) years after the date of the ignition of the
+wildfire;
+(ii) A plaintiff may recover economic losses;
+(iii) No plaintiff shall recover noneconomic
+damages unless the plaintiff's claim is based on the injury
+or death of any person in a wildfire;
+(iv) Nothing in this section shall be construed
+to limit any defenses that an electric utility may be
+entitled to raise in a civil action for damages caused by
+wildfire.
+(e) Nothing in this section shall be construed to
+apply to any action against an electric utility for:
+(i) Any act or omission taken by the electric
+utility that is not addressed or covered in the electric
+utility's wildfire mitigation plan;
+(ii) Any act or omission taken by the electric
+utility that causes damages or losses not caused or created
+by a wildfire.
+Section 2. Nothing in this act shall be construed to
+impair, alter or preempt any terms or agreements in grants
+of easements or the terms in any other agreements between
+electric utilities and third parties for the shared use of
+facilities.
+Section 3. The public service commission may
+promulgate any rules necessary to implement this act.
+8
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0192
+ENROLLED ACT NO. 58, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+Section 4.
+(a) Except as provided in subsection (b) of this
+section, this act is effective July 1, 2025.
+(b) Sections 3 and 4 of this act are effective
+immediately upon completion of all acts necessary for a
+bill to become law as provided by Article 4, Section 8 of
+the Wyoming Constitution.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the House.
+Chief Clerk
+9
+
+[DELETED: EE A r t p u r p t p a s w m p p f t s a r o m p s h c a f l a d f p u t w r r s 1 t 3 a c t l m p l l r f m e b l o b p d l s l l d t d a b u m a p c e u t p a e i t g t o s e e " u s n i]
+[DELETED: EE m a u u b w W t m i d o h t n r a r m p p i t a s b c t t c a t r u o m p a b t o t w i o p a e u w m e u s p a w d o t e u t a t a w t s o r t m b s t a d o t p s o i t a d]
+[DELETED: EE d o t p a t t e u w u t p d o p m a u t f a p d o h t e u d o h t e u d o p a f d p l a d a o t e u t a t p p l t b f t c s o e t a m h o t r o t r o t u t a d]
+[DELETED: EE t p b o a s a p a n t c a c c w t o d o t p t u i t u t r i e e u w r a i o t w m p d o c o a a e b a d t w p i a i b w o d o p p f t W s f o t o o s l a i a r W r f]
+[DELETED: EE l t f ( b d a a m p i s t t p s f a u W 3 t u s p d n t a m p h b f w t p c t a c d a c i t e u m p c r a a f a o a m p t c s n l o h t ( d a r u c d i i n t c t o t a t c h e a o n a t p i t p i i t p i a a r b t c a o a w p s n a c t t t w m p A e u r a r b t c m s a]
+[DELETED: EE c m a c r f t c e u s s s o a t e u l s a p t c o a o b t c T s r a a s p i l t J 1 i t y f a r w t c d t e c w t a w m a s r a o o t c f t e u h s c w m p r o a o p i t s s b a p i a c a t t w m p i a r a e u a a l w a w r c s n i g u D n a e u r t a l n l t n ( a r o t l s o]
+[DELETED: EE p m r e l f a u a a r o a w o i t s o ( o m o t f b a w t a a p c o t d t p F p o t p a u s b d t h s t e u r a t t t p v m o f d w a p c o t d t t A d o d s n b d a r e t e t e a e u a w g m o c i a t e f s a i a c a u s ( o t s t a b a a e u f d a a a e u f c b a w s b b n l]
+[DELETED: EE p s r n i t s s b c l a d t a e u m b t r i a c a f d c b i t s s b c t a o o t b t e t i n a o c i t e a o o t b t e e o t t i a o a b 3 p s c m]
+[DELETED: EE a p i s ( o t 3 a 4 o t a a e u c o a a n f aeP]

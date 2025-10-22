@@ -1,0 +1,43 @@
+Title: 1 Delete the Larsen et al. second reading amendment (HB0001H2034/A)
+Official Title: 1 Delete the Larsen et al. second reading amendment (HB0001H2034/A)
+Number of Sections: 3
+Source: versions - Amendment HB0001H3028 (3rd reading) - Representative Knapp (Adopted)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0001H3028
+[BUDGET(s) AFFECTED]
+
+Section 2:
+Section Under Consideration:
+
+Section 3:
+Section 345. [NATURAL RESOURCE LITIGATION ACCOUNT]
+* * * * * * * * * *
+2 entirely.
+3
+4 To the extent required by this amendment: adjust totals; and
+5 renumber as necessary. KNAPP
+1
+[DELETED: DeT t e r b t a a t ar]
+
+
+================================================================================
+
+Raw Text:
+HB0001H3028
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 345. [NATURAL RESOURCE LITIGATION ACCOUNT]
+* * * * * * * * * *
+1 Delete the Larsen et al. second reading amendment (HB0001H2034/A)
+2 entirely.
+3
+4 To the extent required by this amendment: adjust totals; and
+5 renumber as necessary. KNAPP
+1
+
+[DELETED: DeT t e r b t a a t ar]

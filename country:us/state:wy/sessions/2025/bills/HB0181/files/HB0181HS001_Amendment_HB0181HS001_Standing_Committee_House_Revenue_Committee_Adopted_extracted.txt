@@ -1,0 +1,25 @@
+Title: 1 Page 2-line 16 Strike "building" and insert "savings". LOCKE,
+Official Title: 1 Page 2-line 16 Strike "building" and insert "savings". LOCKE,
+Number of Sections: 1
+Source: versions - Amendment HB0181HS001 (Standing Committee) - House Revenue Committee (Adopted)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0181HS001
+2 CHAIRMAN
+1
+[DELETED: P6SC]
+
+
+================================================================================
+
+Raw Text:
+HB0181HS001
+1 Page 2-line 16 Strike "building" and insert "savings". LOCKE,
+2 CHAIRMAN
+1
+
+[DELETED: P6SC]

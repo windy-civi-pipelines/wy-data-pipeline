@@ -1,0 +1,25 @@
+Title: 1 Page 1-above line 1 In the catch title, delete entirely and
+Official Title: 1 Page 1-above line 1 In the catch title, delete entirely and
+Number of Sections: 1
+Source: versions - Amendment HB0160H3002 (3rd reading) - Representative Yin (Failed)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0160H3002
+2 insert "Student ID for voter ID repeal.". YIN
+1
+[DELETED: P1Ii]
+
+
+================================================================================
+
+Raw Text:
+HB0160H3002
+1 Page 1-above line 1 In the catch title, delete entirely and
+2 insert "Student ID for voter ID repeal.". YIN
+1
+
+[DELETED: P1Ii]

@@ -1,0 +1,25 @@
+Title: 1 Page 6-line 3 Delete "$70.00" and insert "$75.00". LANDEN,
+Official Title: 1 Page 6-line 3 Delete "$70.00" and insert "$75.00". LANDEN,
+Number of Sections: 1
+Source: versions - Amendment HB0004SS001 (Standing Committee) - Senate Travel, Recreation, Wildlife and Cultural R (Adopted)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0004SS001 (TO ENGROSSED COPY)
+2 CHAIRMAN
+1
+[DELETED: 1(P3DC]
+
+
+================================================================================
+
+Raw Text:
+HB0004SS001 (TO ENGROSSED COPY)
+1 Page 6-line 3 Delete "$70.00" and insert "$75.00". LANDEN,
+2 CHAIRMAN
+1
+
+[DELETED: 1(P3DC]

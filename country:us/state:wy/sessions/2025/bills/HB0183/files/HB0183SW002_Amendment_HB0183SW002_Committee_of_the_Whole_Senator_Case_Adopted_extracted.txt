@@ -1,0 +1,49 @@
+Title: 8 interconnection agreement with the electric utility that sets
+Official Title: 8 interconnection agreement with the electric utility that sets
+Number of Sections: 1
+Source: versions - Amendment HB0183SW002 (Committee of the Whole) - Senator Case (Adopted)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0183SW002 (TO ENGROSSED COPY)
+1 Page 3-line 23 Delete "and".
+2
+3 Page 4-line 3 Delete "." and insert "; and".
+4
+5 Page 4-after line 3 insert:
+6
+7 "(E) The customer-generator has executed an
+9 operational limits such as, but not limited to, short circuit
+10 interrupting capability, transient stability limits and maximum
+11 fault current. If the electric utility must install facilities in
+12 order to accommodate the interconnection of the net metering
+13 facility, the cost of the facilities shall be the responsibility
+14 of the applicant.". CASE
+1
+[DELETED: 2(P3DP3DP3i" T c h e ai a w t e u t so l s a b n l t s c0i c t s l a m1f2o t a t i o t n m3f4o]
+
+
+================================================================================
+
+Raw Text:
+HB0183SW002 (TO ENGROSSED COPY)
+1 Page 3-line 23 Delete "and".
+2
+3 Page 4-line 3 Delete "." and insert "; and".
+4
+5 Page 4-after line 3 insert:
+6
+7 "(E) The customer-generator has executed an
+8 interconnection agreement with the electric utility that sets
+9 operational limits such as, but not limited to, short circuit
+10 interrupting capability, transient stability limits and maximum
+11 fault current. If the electric utility must install facilities in
+12 order to accommodate the interconnection of the net metering
+13 facility, the cost of the facilities shall be the responsibility
+14 of the applicant.". CASE
+1
+
+[DELETED: 2(P3DP3DP3i" T c h e ai a w t e u t so l s a b n l t s c0i c t s l a m1f2o t a t i o t n m3f4o]

@@ -1,0 +1,27 @@
+Title: 1 Page 3-line 7 After "government" insert ", with the
+Official Title: 1 Page 3-line 7 After "government" insert ", with the
+Number of Sections: 1
+Source: versions - Amendment HB0096HW001 (Committee of the Whole) - Representative Larsen, L (Failed)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0096HW001
+2 exception of commercial service airports and
+3 health care facilities,". LARSEN, L
+1
+[DELETED: P7A " i " w teh]
+
+
+================================================================================
+
+Raw Text:
+HB0096HW001
+1 Page 3-line 7 After "government" insert ", with the
+2 exception of commercial service airports and
+3 health care facilities,". LARSEN, L
+1
+
+[DELETED: P7A " i " w teh]

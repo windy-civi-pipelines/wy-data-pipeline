@@ -272,6 +272,7 @@
     "division_id": "ocd-division/country:us/state:wy"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-22T17:15:26Z"
+    "logs_latest_update": "2025-10-22T17:15:26Z",
+    "text_extraction_latest_update": "2025-10-22T17:34:38.785752Z"
   }
 }

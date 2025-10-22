@@ -1,0 +1,25 @@
+Title: 1 Page 3-line 18 Delete "using" and insert "the in-hand use
+Official Title: 1 Page 3-line 18 Delete "using" and insert "the in-hand use
+Number of Sections: 1
+Source: versions - Amendment HB0028S3001 (3rd reading) - Senator Pearson (Adopted)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0028S3001
+2 of". PEARSON
+1
+[DELETED: P8D " a i " i uo]
+
+
+================================================================================
+
+Raw Text:
+HB0028S3001
+1 Page 3-line 18 Delete "using" and insert "the in-hand use
+2 of". PEARSON
+1
+
+[DELETED: P8D " a i " i uo]

@@ -1,0 +1,89 @@
+Title: 1 Page 1-line 3 Delete "extending the time to set a".
+Official Title: 1 Page 1-line 3 Delete "extending the time to set a".
+Number of Sections: 1
+Source: versions - Amendment SF0007SS001 (Standing Committee) - Senate Judiciary Committee (Adopted)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SF0007SS001
+2
+3 Page 1-line 4 Delete "hearing on a petition;".
+4
+5 Page 2-line 22 Reinsert stricken "petition is not".
+6
+7 Page 2-line 23 Reinsert all stricken language; delete all new
+8 language.
+9
+10 Page 3-line 1 Delete "twenty-one (21)".
+11
+12 Page 3-line 11 Reinsert stricken "seventy-two (72) hours";
+13 delete "ten".
+14
+15 Page 3-line 12 Delete "(10) days".
+16
+17 Page 3-line 18 Reinsert all stricken language; delete all new
+18 language.
+19
+20 Page 5-line 3 After "court" insert "by certified or first-
+21 class mail".
+22
+23 Page 7-lines 19-20 Delete all new language.
+24
+25 Page 8-line 11 Reinsert all stricken language; delete all new
+26 language.
+27
+28 Page 8-line 18 Reinsert stricken "seventy-two (72)".
+29
+30 Page 8-line 19 Reinsert stricken "hours"; delete "ten (10)
+31 days".
+32
+33 Page 10-line 1 After "court" insert "by certified or first-
+34 class mail". OLSEN, CHAIRMAN
+1
+[DELETED: P3DP4DP2RP3Rl0P1D2P1R s " ( h3d5P2D7P8R8l0P3A1c3P0D5P1R6l8P8R0P9R s " d " (1d3P1A4c]
+
+
+================================================================================
+
+Raw Text:
+SF0007SS001
+1 Page 1-line 3 Delete "extending the time to set a".
+2
+3 Page 1-line 4 Delete "hearing on a petition;".
+4
+5 Page 2-line 22 Reinsert stricken "petition is not".
+6
+7 Page 2-line 23 Reinsert all stricken language; delete all new
+8 language.
+9
+10 Page 3-line 1 Delete "twenty-one (21)".
+11
+12 Page 3-line 11 Reinsert stricken "seventy-two (72) hours";
+13 delete "ten".
+14
+15 Page 3-line 12 Delete "(10) days".
+16
+17 Page 3-line 18 Reinsert all stricken language; delete all new
+18 language.
+19
+20 Page 5-line 3 After "court" insert "by certified or first-
+21 class mail".
+22
+23 Page 7-lines 19-20 Delete all new language.
+24
+25 Page 8-line 11 Reinsert all stricken language; delete all new
+26 language.
+27
+28 Page 8-line 18 Reinsert stricken "seventy-two (72)".
+29
+30 Page 8-line 19 Reinsert stricken "hours"; delete "ten (10)
+31 days".
+32
+33 Page 10-line 1 After "court" insert "by certified or first-
+34 class mail". OLSEN, CHAIRMAN
+1
+
+[DELETED: P3DP4DP2RP3Rl0P1D2P1R s " ( h3d5P2D7P8R8l0P3A1c3P0D5P1R6l8P8R0P9R s " d " (1d3P1A4c]

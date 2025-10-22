@@ -1,0 +1,186 @@
+Title: HOUSE BILL NO. HB0158
+Official Title: HOUSE BILL NO. HB0158
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0353
+Legislature-electronic voting system.
+Sponsored by: Representative(s) Bear, Andrew, Angelos,
+Brady, Bratten, Brown, G, Guggenmos,
+Haroldson, Heiner, Hoeft, Jarvis, Johnson,
+Lien, Locke, Lucas, Neiman, Pendergraft,
+Rodriguez-Williams, Singh and Smith, S and
+Senator(s) Laursen, D, Pearson and Smith, D
+A BILL
+for
+1 AN ACT relating to legislative process; requiring the
+2 installation of an electronic voting system; providing an
+3 appropriation; and providing for an effective date.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1.
+8
+9 (a) There is appropriated two hundred fifty thousand
+10 dollars ($250,000.00) from the general fund to the
+11 legislative service office. These funds shall be used only
+12 for the purpose of the planning, design, purchase and
+13 installation of an electronic voting system in the chambers
+1 HB0158
+2025 STATE OF WYOMING 25LSO-0353
+1 of the house of representatives and senate chambers at the
+2 Wyoming state capitol building. The electronic voting
+3 systems required by this act shall:
+4
+5 (i) Include the placement of devices located at
+6 each legislator's desk or in other locations on the floor
+7 of the chambers that allow each legislator to cast a vote
+8 by electronic means and that allow vote tabulation by
+9 electronic means;
+10
+11 (ii) Allow the display of votes cast on the
+12 electronic voting systems in the chambers of the house
+13 where the vote was cast and on the legislature's website
+14 and streaming platform;
+15
+16 (iii) Include security measures that, to the
+17 greatest extent reasonably practical, assure that all votes
+18 recorded as cast by a legislator through the electronic
+19 voting system were entered by that legislator and not by
+20 any other person;
+21
+22 (iv) Include the capacity to perform other
+23 functions. This paragraph shall be applicable only if the
+2 HB0158
+2025 STATE OF WYOMING 25LSO-0353
+1 excess functionality required by this paragraph can be
+2 provided without exceeding the appropriation provided by
+3 this act;
+4
+5 (v) Be developed under the direction of the
+6 legislative service office and shall integrate with the
+7 software systems currently used by the Wyoming legislature.
+8
+9 (b) The funds appropriated in subsection (a) of this
+10 section shall not be transferred or expended for any
+11 purpose other than for the planning, design, purchase and
+12 installation of the electronic voting system required by
+13 subsection (a) of this section. Any unexpended,
+14 unobligated amount remaining from funds appropriated under
+15 this act shall revert on June 30, 2026. The amounts
+16 appropriated in subsection (a) of this section are intended
+17 to provide a maximum amount for the electronic voting
+18 system provided by this act and shall not be construed to
+19 be an entitlement or guaranteed amount.
+20
+3 HB0158
+2025 STATE OF WYOMING 25LSO-0353
+1 Section 2. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+4 HB0158
+[DELETED: 52 YH b R B A A B B G G H H J J L L N P S a S S aA A r t l p r ti o a e v s p aaBS( i a t h f t0d ( f t g f t t1l2f t p o t p d p a3i]
+[DELETED: 5SG2HoW s c b  T e vs( t p o d l ae l d o i o l o t fo t c t a e l t c a vb e m a t a v t be1( t d o v c o t2e v s i t c o t h3w t v w c a o t l w4a6( s m t t t7g8r a c b a l t t e9v s w e b t l a n b0a2( t c t p o3f]
+[DELETED: 5SG2He f r b t p c bp w e t a p bt( d u t d o tl s o a s i w ts( f a i s ( o t0s s n b t o e f a1p o t f t p d p a2i o t e v s r b3s ( o t s  A u4u a r f f a u5t a s r o J 3 2 T a6a7t p a m a f t e v8s p b t a a s n b c t9b]
+[DELETED: 5SG2HS 2 a i e i uc o a a n f a b t b la p b A 4 S 8 o t WC(]
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0353
+HOUSE BILL NO. HB0158
+Legislature-electronic voting system.
+Sponsored by: Representative(s) Bear, Andrew, Angelos,
+Brady, Bratten, Brown, G, Guggenmos,
+Haroldson, Heiner, Hoeft, Jarvis, Johnson,
+Lien, Locke, Lucas, Neiman, Pendergraft,
+Rodriguez-Williams, Singh and Smith, S and
+Senator(s) Laursen, D, Pearson and Smith, D
+A BILL
+for
+1 AN ACT relating to legislative process; requiring the
+2 installation of an electronic voting system; providing an
+3 appropriation; and providing for an effective date.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1.
+8
+9 (a) There is appropriated two hundred fifty thousand
+10 dollars ($250,000.00) from the general fund to the
+11 legislative service office. These funds shall be used only
+12 for the purpose of the planning, design, purchase and
+13 installation of an electronic voting system in the chambers
+1 HB0158
+
+2025 STATE OF WYOMING 25LSO-0353
+1 of the house of representatives and senate chambers at the
+2 Wyoming state capitol building. The electronic voting
+3 systems required by this act shall:
+4
+5 (i) Include the placement of devices located at
+6 each legislator's desk or in other locations on the floor
+7 of the chambers that allow each legislator to cast a vote
+8 by electronic means and that allow vote tabulation by
+9 electronic means;
+10
+11 (ii) Allow the display of votes cast on the
+12 electronic voting systems in the chambers of the house
+13 where the vote was cast and on the legislature's website
+14 and streaming platform;
+15
+16 (iii) Include security measures that, to the
+17 greatest extent reasonably practical, assure that all votes
+18 recorded as cast by a legislator through the electronic
+19 voting system were entered by that legislator and not by
+20 any other person;
+21
+22 (iv) Include the capacity to perform other
+23 functions. This paragraph shall be applicable only if the
+2 HB0158
+
+2025 STATE OF WYOMING 25LSO-0353
+1 excess functionality required by this paragraph can be
+2 provided without exceeding the appropriation provided by
+3 this act;
+4
+5 (v) Be developed under the direction of the
+6 legislative service office and shall integrate with the
+7 software systems currently used by the Wyoming legislature.
+8
+9 (b) The funds appropriated in subsection (a) of this
+10 section shall not be transferred or expended for any
+11 purpose other than for the planning, design, purchase and
+12 installation of the electronic voting system required by
+13 subsection (a) of this section. Any unexpended,
+14 unobligated amount remaining from funds appropriated under
+15 this act shall revert on June 30, 2026. The amounts
+16 appropriated in subsection (a) of this section are intended
+17 to provide a maximum amount for the electronic voting
+18 system provided by this act and shall not be construed to
+19 be an entitlement or guaranteed amount.
+20
+3 HB0158
+
+2025 STATE OF WYOMING 25LSO-0353
+1 Section 2. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+4 HB0158
+
+[DELETED: 52 YH b R B A A B B G G H H J J L L N P S a S S aA A r t l p r ti o a e v s p aaBS( i a t h f t0d ( f t g f t t1l2f t p o t p d p a3i]
+[DELETED: 5SG2HoW s c b  T e vs( t p o d l ae l d o i o l o t fo t c t a e l t c a vb e m a t a v t be1( t d o v c o t2e v s i t c o t h3w t v w c a o t l w4a6( s m t t t7g8r a c b a l t t e9v s w e b t l a n b0a2( t c t p o3f]
+[DELETED: 5SG2He f r b t p c bp w e t a p bt( d u t d o tl s o a s i w ts( f a i s ( o t0s s n b t o e f a1p o t f t p d p a2i o t e v s r b3s ( o t s  A u4u a r f f a u5t a s r o J 3 2 T a6a7t p a m a f t e v8s p b t a a s n b c t9b]
+[DELETED: 5SG2HS 2 a i e i uc o a a n f a b t b la p b A 4 S 8 o t WC(]

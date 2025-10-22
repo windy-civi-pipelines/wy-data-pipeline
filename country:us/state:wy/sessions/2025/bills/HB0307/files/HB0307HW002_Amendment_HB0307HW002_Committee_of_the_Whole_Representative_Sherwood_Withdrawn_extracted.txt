@@ -1,0 +1,24 @@
+Title: PDF Document
+Official Title: 
+Number of Sections: 1
+Source: versions - Amendment HB0307HW002 (Committee of the Whole) - Representative Sherwood (Withdrawn)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0307HW002
+1 Page 5-line 15 Delete "state or". SHERWOOD
+1
+[DELETED: P5D]
+
+
+================================================================================
+
+Raw Text:
+HB0307HW002
+1 Page 5-line 15 Delete "state or". SHERWOOD
+1
+
+[DELETED: P5D]
