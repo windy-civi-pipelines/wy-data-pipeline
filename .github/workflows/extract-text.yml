@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 0
 
       - name: Run text extraction action
-        uses: windy-civi/toolkit/actions/format@extract/v2-data-structure
+        uses: windy-civi/toolkit/actions/extract@refactor/v2-data-structure
         with:
           state: wy # ⚠️ UPDATE THIS: Change to your state code (e.g., wy, usa, il, tx)
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -32,8 +32,8 @@ jobs:
         run: |
           echo "📊 Text Extraction Summary"
           echo "================================"
-          echo "✅ Check data_output/data_processed for extracted text files"
-          echo "📄 Look for *_extracted.txt files in bills/*/files/ directories"
+          echo "✅ Check country:us/state:*/sessions/*/bills/*/files/ for extracted text files"
+          echo "📄 Look for *_extracted.txt files in the files/ directories"
           echo ""
           echo "ℹ️  Features:"
           echo "  - Incremental processing (skips already-processed bills)"
