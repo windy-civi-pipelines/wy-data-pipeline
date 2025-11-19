@@ -167,5 +167,8 @@
     "name": "Wyoming",
     "classification": "state",
     "division_id": "ocd-division/country:us/state:wy"
+  },
+  "_processing": {
+    "text_extraction_latest_update": "2025-11-19T04:09:32.903921Z"
   }
 }
