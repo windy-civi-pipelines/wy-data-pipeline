@@ -25,7 +25,7 @@ jobs:
 
       - name: Run text extraction action
         id: extract
-        uses: windy-civi/toolkit/actions/extract@main
+        uses: windy-civi/toolkit/actions/extract@move-extract
         with:
           state: wy # WY
           github-token: ${{ secrets.GITHUB_TOKEN }}
