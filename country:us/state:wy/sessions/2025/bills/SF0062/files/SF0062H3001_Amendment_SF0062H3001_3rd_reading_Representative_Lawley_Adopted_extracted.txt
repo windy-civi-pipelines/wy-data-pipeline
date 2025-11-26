@@ -1,0 +1,202 @@
+Title: 1 Page 1-above line 1 In the catch title, delete entirely and
+Official Title: 1 Page 1-above line 1 In the catch title, delete entirely and
+Number of Sections: 1
+Source: versions - Amendment SF0062H3001 (3rd reading) - Representative Lawley (Adopted)
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SF0062H3001 (TO ENGROSSED COPY)
+2 insert "Sex-designated facilities and public
+3 schools.".
+4
+5 Page 1-line 2 After "restrooms" and insert ", sex-designated
+6 changing facilities and sleeping quarters".
+7
+8 Page 1-line 11 After "Restrooms" insert "and changing rooms";
+9 after "schools;" insert "designated sleeping
+10 quarters for school-sponsored activities;".
+11
+12 Page 2-line 7 Delete "athletic".
+13
+14 Page 2-line 9 Delete ""Multiple occupancy restroom or
+15 changing" and insert ""Restroom" or
+16 "changing".
+17
+18 Page 2-line 11 Delete "more than"; after "(1)" delete "person
+19 at the".
+20
+21 Page 2-line 12 Delete "same time" and insert "or more
+22 persons".
+23
+24 Page 2-line 17 Delete "athletic".
+25
+26 Page 2-line 18 Delete "a sporting" and insert "an"
+27
+28 Page 2-after line 22 Insert and renumber as necessary:
+29
+30 "(vii) "Sleeping quarters" means an area with at least
+31 one (1) bed or cot in which at least one (1) person is housed
+32 overnight on or off public school property when attending a school-
+33 sponsored activity.".
+34
+35 Page 3-line 4 After "restroom" delete "or" and insert ",";
+36 after "changing room" insert "or sleeping
+37 quarters".
+38
+39 Page 3-line 13 Delete "or" and insert ","; after "changing
+40 room" insert "or sleeping quarters".
+41
+42 Page 3-line 17 Delete "or" and insert ","; after "changing
+43 room" insert "or sleeping quarters. A
+44 reasonable accommodation granted under this
+1
+1 subsection shall not include access to a
+2 restroom, changing area or sleeping quarters
+3 that is designated for use by members of the
+4 opposite sex while persons of the opposite sex
+5 are present or could be present".
+6
+7 Page 3-line 20 Delete "or" and insert ","; after "changing
+8 room" insert "or sleeping quarters".
+9
+10 Page 4-line 8 Delete "athletic".
+11
+12 Page 5-line 7 Delete "athletic".
+13
+14 Page 5-line 10 Delete "athletic".
+15
+16 Page 5-after line 15 Insert and renumber as necessary:
+17
+18 "(vi) To render caregiving assistance;
+19
+20 (vii) To receive assistance if the person is
+21 accompanied by a family member, legal guardian or the person's
+22 designee who is a member of the designated sex for the single-sex
+23 restroom, changing area or sleeping quarters;
+24
+25 (viii) When necessary to prevent a serious threat to
+26 public health or student safety during an ongoing natural disaster
+27 or emergency;
+28
+29 (ix) When a school official or employee enters a
+30 restroom, changing area or sleeping quarters while in the
+31 performance of the official's or employee's official duties and
+32 who takes reasonable steps to ensure that no person in the room is
+33 in a state of undress;
+34
+35 (x) When a restroom, changing area or sleeping quarters
+36 has been temporarily designated for use by the opposite sex.".
+37
+38 Page 6-line 3 After "action" insert ", including for
+39 declaratory and injunctive relief,".
+40
+41 Page 6-line 16 Delete "or" and insert ",".
+42
+43 Page 6-line 17 After "changing room" insert "or sleeping
+44 quarters". LAWLEY
+2
+[DELETED: 1(P1IisP2AcP1Aa0q2P7D4P9D " o r o5c a i " o6"8P D9a1P2D " t a i " m2p4P7D6P D8P2I0"1o ( b o c i w a l o ( p i h2o3s5P4A6a " r i " s7q9P3D " a i " a "0r2P7D " a i " a "3r i " s q A4r a g u t]
+[DELETED: s s n i a t artoaP0D " a i " a "r0P8D2P7D4P D6P5I8"0( r a i t p i1a b a f m l g o t p2d3r5( n t p a s t t6p7o9( a s o o e e a0r c a o s q w i t1p2w3i5(6h8P3A " i " i f9d1P6D3P7A " r i " s4q]
+
+
+================================================================================
+
+Raw Text:
+SF0062H3001 (TO ENGROSSED COPY)
+1 Page 1-above line 1 In the catch title, delete entirely and
+2 insert "Sex-designated facilities and public
+3 schools.".
+4
+5 Page 1-line 2 After "restrooms" and insert ", sex-designated
+6 changing facilities and sleeping quarters".
+7
+8 Page 1-line 11 After "Restrooms" insert "and changing rooms";
+9 after "schools;" insert "designated sleeping
+10 quarters for school-sponsored activities;".
+11
+12 Page 2-line 7 Delete "athletic".
+13
+14 Page 2-line 9 Delete ""Multiple occupancy restroom or
+15 changing" and insert ""Restroom" or
+16 "changing".
+17
+18 Page 2-line 11 Delete "more than"; after "(1)" delete "person
+19 at the".
+20
+21 Page 2-line 12 Delete "same time" and insert "or more
+22 persons".
+23
+24 Page 2-line 17 Delete "athletic".
+25
+26 Page 2-line 18 Delete "a sporting" and insert "an"
+27
+28 Page 2-after line 22 Insert and renumber as necessary:
+29
+30 "(vii) "Sleeping quarters" means an area with at least
+31 one (1) bed or cot in which at least one (1) person is housed
+32 overnight on or off public school property when attending a school-
+33 sponsored activity.".
+34
+35 Page 3-line 4 After "restroom" delete "or" and insert ",";
+36 after "changing room" insert "or sleeping
+37 quarters".
+38
+39 Page 3-line 13 Delete "or" and insert ","; after "changing
+40 room" insert "or sleeping quarters".
+41
+42 Page 3-line 17 Delete "or" and insert ","; after "changing
+43 room" insert "or sleeping quarters. A
+44 reasonable accommodation granted under this
+1
+
+1 subsection shall not include access to a
+2 restroom, changing area or sleeping quarters
+3 that is designated for use by members of the
+4 opposite sex while persons of the opposite sex
+5 are present or could be present".
+6
+7 Page 3-line 20 Delete "or" and insert ","; after "changing
+8 room" insert "or sleeping quarters".
+9
+10 Page 4-line 8 Delete "athletic".
+11
+12 Page 5-line 7 Delete "athletic".
+13
+14 Page 5-line 10 Delete "athletic".
+15
+16 Page 5-after line 15 Insert and renumber as necessary:
+17
+18 "(vi) To render caregiving assistance;
+19
+20 (vii) To receive assistance if the person is
+21 accompanied by a family member, legal guardian or the person's
+22 designee who is a member of the designated sex for the single-sex
+23 restroom, changing area or sleeping quarters;
+24
+25 (viii) When necessary to prevent a serious threat to
+26 public health or student safety during an ongoing natural disaster
+27 or emergency;
+28
+29 (ix) When a school official or employee enters a
+30 restroom, changing area or sleeping quarters while in the
+31 performance of the official's or employee's official duties and
+32 who takes reasonable steps to ensure that no person in the room is
+33 in a state of undress;
+34
+35 (x) When a restroom, changing area or sleeping quarters
+36 has been temporarily designated for use by the opposite sex.".
+37
+38 Page 6-line 3 After "action" insert ", including for
+39 declaratory and injunctive relief,".
+40
+41 Page 6-line 16 Delete "or" and insert ",".
+42
+43 Page 6-line 17 After "changing room" insert "or sleeping
+44 quarters". LAWLEY
+2
+
+[DELETED: 1(P1IisP2AcP1Aa0q2P7D4P9D " o r o5c a i " o6"8P D9a1P2D " t a i " m2p4P7D6P D8P2I0"1o ( b o c i w a l o ( p i h2o3s5P4A6a " r i " s7q9P3D " a i " a "0r2P7D " a i " a "3r i " s q A4r a g u t]
+[DELETED: s s n i a t artoaP0D " a i " a "r0P8D2P7D4P D6P5I8"0( r a i t p i1a b a f m l g o t p2d3r5( n t p a s t t6p7o9( a s o o e e a0r c a o s q w i t1p2w3i5(6h8P3A " i " i f9d1P6D3P7A " r i " s4q]

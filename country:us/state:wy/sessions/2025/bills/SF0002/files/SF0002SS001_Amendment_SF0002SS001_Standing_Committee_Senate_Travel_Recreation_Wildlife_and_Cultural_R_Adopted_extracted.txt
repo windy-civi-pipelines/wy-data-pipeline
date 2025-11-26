@@ -1,0 +1,31 @@
+Title: 1 Page 6-line 6 Delete "this"; reinsert stricken "(b)".
+Official Title: 1 Page 6-line 6 Delete "this"; reinsert stricken "(b)".
+Number of Sections: 1
+Source: versions - Amendment SF0002SS001 (Standing Committee) - Senate Travel, Recreation, Wildlife and Cultural R (Adopted)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SF0002SS001
+2
+3 Page 6-line 7 Reinsert stricken "of this section"; delete
+4 "cow or calf"; delete "a ewe or lamb". LANDEN,
+5 CHAIRMAN
+1
+[DELETED: P6DP7R s " t s d"C]
+
+
+================================================================================
+
+Raw Text:
+SF0002SS001
+1 Page 6-line 6 Delete "this"; reinsert stricken "(b)".
+2
+3 Page 6-line 7 Reinsert stricken "of this section"; delete
+4 "cow or calf"; delete "a ewe or lamb". LANDEN,
+5 CHAIRMAN
+1
+
+[DELETED: P6DP7R s " t s d"C]

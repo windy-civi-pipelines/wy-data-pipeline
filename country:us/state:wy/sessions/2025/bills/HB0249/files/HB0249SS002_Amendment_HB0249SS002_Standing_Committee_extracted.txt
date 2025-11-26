@@ -1,0 +1,31 @@
+Title: 1 Page 9-line 17 Strike "post" and insert "posted".
+Official Title: 1 Page 9-line 17 Strike "post" and insert "posted".
+Number of Sections: 1
+Source: versions - Amendment HB0249SS002 (Standing Committee)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0249SS002 (TO ENGROSSED COPY)
+2
+3 Page 12-line 5 Delete "present" and insert "registered".
+4 SALAZAR, CHAIRMAN
+5
+1
+[DELETED: 2(P7SP5D " a i "S]
+
+
+================================================================================
+
+Raw Text:
+HB0249SS002 (TO ENGROSSED COPY)
+1 Page 9-line 17 Strike "post" and insert "posted".
+2
+3 Page 12-line 5 Delete "present" and insert "registered".
+4 SALAZAR, CHAIRMAN
+5
+1
+
+[DELETED: 2(P7SP5D " a i "S]

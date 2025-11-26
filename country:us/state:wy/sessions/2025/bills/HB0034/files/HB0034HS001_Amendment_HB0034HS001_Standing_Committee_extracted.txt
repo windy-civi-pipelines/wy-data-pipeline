@@ -1,0 +1,29 @@
+Title: 1 Page 4-lines 6 through 11 Delete entirely and insert:
+Official Title: 1 Page 4-lines 6 through 11 Delete entirely and insert:
+Number of Sections: 1
+Source: versions - Amendment HB0034HS001 (Standing Committee)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0034HS001
+2
+3 "(b) This act shall only be effective if 2025 House Bill 0033
+4 is enacted into law.". BROWN, L, CHAIRMAN
+1
+[DELETED: P1D"i]
+
+
+================================================================================
+
+Raw Text:
+HB0034HS001
+1 Page 4-lines 6 through 11 Delete entirely and insert:
+2
+3 "(b) This act shall only be effective if 2025 House Bill 0033
+4 is enacted into law.". BROWN, L, CHAIRMAN
+1
+
+[DELETED: P1D"i]

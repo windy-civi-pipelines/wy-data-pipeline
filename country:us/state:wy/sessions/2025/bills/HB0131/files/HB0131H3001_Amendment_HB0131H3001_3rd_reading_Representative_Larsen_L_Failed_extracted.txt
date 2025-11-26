@@ -1,0 +1,25 @@
+Title: 1 Page 1-line 14 Before "No county" insert "Except in a special
+Official Title: 1 Page 1-line 14 Before "No county" insert "Except in a special
+Number of Sections: 1
+Source: versions - Amendment HB0131H3001 (3rd reading) - Representative Larsen, L (Failed)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0131H3001
+2 district election,". LARSEN, L
+1
+[DELETED: P4Bd]
+
+
+================================================================================
+
+Raw Text:
+HB0131H3001
+1 Page 1-line 14 Before "No county" insert "Except in a special
+2 district election,". LARSEN, L
+1
+
+[DELETED: P4Bd]
