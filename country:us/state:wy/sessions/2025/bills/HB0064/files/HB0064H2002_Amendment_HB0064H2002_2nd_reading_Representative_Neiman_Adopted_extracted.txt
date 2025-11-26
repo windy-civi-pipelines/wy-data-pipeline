@@ -1,0 +1,25 @@
+Title: 1 Page 4-line 23 Delete "and weight" and insert ", length and
+Official Title: 1 Page 4-line 23 Delete "and weight" and insert ", length and
+Number of Sections: 1
+Source: versions - Amendment HB0064H2002 (2nd reading) - Representative Neiman (Adopted)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0064H2002
+2 head diameter". NEIMAN
+1
+[DELETED: P3Dh]
+
+
+================================================================================
+
+Raw Text:
+HB0064H2002
+1 Page 4-line 23 Delete "and weight" and insert ", length and
+2 head diameter". NEIMAN
+1
+
+[DELETED: P3Dh]
