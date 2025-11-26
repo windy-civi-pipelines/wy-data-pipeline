@@ -544,6 +544,7 @@
     "division_id": "ocd-division/country:us/state:wy"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-26T00:43:06Z"
+    "logs_latest_update": "2025-11-26T00:43:06Z",
+    "text_extraction_latest_update": "2025-11-26T09:39:16.214557Z"
   }
 }

@@ -1,0 +1,47 @@
+Title: 1 Page 2-line 23 Strike "within" and insert "located up to";
+Official Title: 1 Page 2-line 23 Strike "within" and insert "located up to";
+Number of Sections: 1
+Source: versions - Amendment HB0097HS001 (Standing Committee) - House Appropriations Committee (Adopted)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB0097HS001
+2 strike "of" and insert "from".
+3
+4 Page 3-line 9 Strike "within" and insert "located up to".
+5
+6 Page 3-line 10 Strike "of" and insert "from".
+7
+8 Page 4-line 15 Strike "within" and insert "located up to";
+9 strike "of" and insert "from".
+10
+11 Page 6-line 14 Delete "not more than" and insert "up to".
+12 BEAR, CHAIRMAN
+13
+1
+[DELETED: P3S " a i " u tsP9SP0SP5S " a i " u ts1P4D " m t a i " t2B]
+
+
+================================================================================
+
+Raw Text:
+HB0097HS001
+1 Page 2-line 23 Strike "within" and insert "located up to";
+2 strike "of" and insert "from".
+3
+4 Page 3-line 9 Strike "within" and insert "located up to".
+5
+6 Page 3-line 10 Strike "of" and insert "from".
+7
+8 Page 4-line 15 Strike "within" and insert "located up to";
+9 strike "of" and insert "from".
+10
+11 Page 6-line 14 Delete "not more than" and insert "up to".
+12 BEAR, CHAIRMAN
+13
+1
+
+[DELETED: P3S " a i " u tsP9SP0SP5S " a i " u ts1P4D " m t a i " t2B]
